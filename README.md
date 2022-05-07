@@ -1,1 +1,1 @@
-# gtb-2022-learning-git
+# Git 101
